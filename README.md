@@ -1,4 +1,4 @@
-# DataMining
+# Data Mining
 This repository contains the following list of course work projects that I carried out in the graduate level Data Mining course that I took in Spring 2015, which I enjoyed a lot.
 
 1. Exploratory Data Analysis in Yelp data with R
