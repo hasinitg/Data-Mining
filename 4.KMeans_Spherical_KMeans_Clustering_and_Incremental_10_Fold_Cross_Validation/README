@@ -1,0 +1,8 @@
+How to run the program:
+-----------------------
+-The entry point to the program is: finalexperiments.py. It has methods to invoke each experiment.
+It first runs experiment in Q1 (see the test case at the bottom) and write word clusters identified at each k for both Wp and Wnp matrices by kmeans and spherical kmeans.
+It then runs exp0 which construct 100 word clusters from output by experiment 1 for k=50.
+It then runs experiment question 2 (exp2).
+Base on the results of that, we can run exp3 (related to question 3) and exp4 (related to question 4).
+Other source files are referenced by this for different algorithms such as kmeans, NBC and incrementa 10 fold cross validation.
