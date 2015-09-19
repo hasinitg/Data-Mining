@@ -1,0 +1,11 @@
+How to run the program:
+-----------------------
+-The entry point to the program is: nbc.py.
+-This can be invoked from commandline as instructed in the assignment.
+-nbc.py is a wrapper module which reads in input files, creates appropriate data structures and pass to the function in NBCOnSets.py module which has the actual logic of NBC Classifier.
+
+The program will print an error message and exit under following conditions:
+-----------------------------------------------------------------------------
+1. Fully biased sample is provided as training set. (i.e: class labels take only one value for all instances)
+2. Undefined classification task provided. (i.e: task!=5 and task!=7)
+3. Not sufficient unique words in the given training set. (i.e: at least there should be 2200 unique words to build the features.)
