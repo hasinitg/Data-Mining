@@ -10,3 +10,5 @@ This repository contains the following list of course work projects that I carri
 4. K-Means Clustering in Python.
 
 5. Association Rule Mining in Python.
+
+In some of the above works, I have fomulated hypothesis and analyzed them with statistical tests, which can be found in the associated reports.
