@@ -7,8 +7,8 @@ This repository contains the following list of course work projects that I carri
 
 3. Naive Base Classifier in Python.
 
-4. K-Means Clustering in Python.
+4. K-Means and Spherical K-Means Clustering and Incremental 10 Fold Cross Validation in Python.
 
-5. Association Rule Mining in Python.
+5. Apriori Algorithm for Association Rule Mining in Python.
 
 In some of the above works, I have fomulated hypothesis and analyzed them with statistical tests, which can be found in the associated reports.
